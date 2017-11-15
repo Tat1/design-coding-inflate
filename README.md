@@ -6,5 +6,4 @@
 
 _This is an italics text_
 
-![GitHub Logo](/image/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png)
-Format: ![Alt Text](url)
+![Image of SNice.svg](/image/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png)
