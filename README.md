@@ -13,3 +13,9 @@ _This is an italics text_
 ~~This can scratch out the sentence.~~
 
 [This is a link to the ravensbourne website](https://www.ravensbourne.ac.uk)
+
+| Create |a      | table   |
+| ------ |:-----:|--------:|
+| _this  | all   | italics_|
+|**this  | is    |bold**   |
+| this   | is    | normal  |
