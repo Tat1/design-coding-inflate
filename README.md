@@ -2,6 +2,8 @@
 
 ## This is a new brief
 
+### Contents
+
 **This is a bold text**
 
 _This is an italics text_
